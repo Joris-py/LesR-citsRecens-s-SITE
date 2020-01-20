@@ -1,0 +1,29 @@
+le web est une partie d'internet
+les mails en sont une autres
+ftp en ai une autre
+ainsi que l'ancètre des forums, les news group
+
+le cloud accès à des services via une interface web
+l'interface
+le cloud stockage de fichier, puissance de calcul, dématérialisation
+
+GOOGLE 
+W3C
+UN MOTEUR DE RECHERCHE AVANT GOOGLE
+UNE BOUTIQUE DE VENTE DE LIVRES EN LIGNE
+LE TOUT PREMIER SITE WEB
+
+Trouvez les plus vieilles versions des sites cités en prendre un screen et l'envoyer au coach
+
+wappalyzer.com site qui permet de découvrir le code utiliser pour la création d'une page.
+
+
+
+
+
+MySQL 
+postgreSQL
+Oracle                  système de gestion de base de données/ SQL est aussi un langage
+SQLite
+Microsoft SQL server 
+   

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<!-- En-tête de la page -->
+<meta charset="utf-8" />
+
+<style type="text/css">
+	h1{
+		color: white;
+		text-align: center;
+	}
+	body{
+		background-color: grey;
+	}
+	p{text-align: right;
+		color: white;
+		background: black}
+	h2{text-align: center;}
+</style>
+
+<title>Présentation</title>
+
+</head>
+
+<body>
+<!-- Corps de la page -->
+<h1>Bonjour et Bienvenue sur <a title="Présentation">MyFace</a> ! </h1>
+<h1>Là ou vous saurez TOUT... Ou presque sur Moi ;) </h1>
+<h2 id="me_joindre"><strong>QUI JE SUIS</strong></h2>
+<p><img src="IMG.jpg" alt="Candidat n°593" width="203
+	" />
+	Je m'appelle <em>PYSSAME PYSSAME Ivan Joris</em>, J'ai 25 ans et je suis Gabonais, Punu d'Ethnie né à Libreville.<br>
+Je vie actuellement à Amissa dans la commune d'Akanda, de la ville de Libreville, au Gabon.
+Vous pouvez me joindre directement au : <ul>
+<li>+241 02 14 07 00</li><img src="icone_whatsapp.jpg" alt="icone_whatsapp" />
+	<li>pyssame94@hotmail.fr</li>
+ <li>974pyssame@gmail.com</li></ul> </p>
+ <h2 id="mon_parcours"><strong>MON PARCOURS</strong></h2>
+ <p>Je suis titulaire d'un Diplôme Nationnale du Brevêt, série collège que j'ai obtenu au <a href="https://lfrdrdc.org/index-1.php/">Lycée Français René Descartes</a> à Kinshasa (R.D.C), en 2010.<br/>
+ 3 ans plus Tard, en 2013, j'obtiens mon Baccalauréat Série littéraire, toujours dans la même école.</p>
+ <h2 id="mon_experience"><strong>MON EXPERIENCE PROFESSIONNELLE</strong></h2>
+ <p>J'ai acquis de nombreuse expériences à travers les différents boulots que j'ai pu exercé.<br/>
+ 	Les deux plus récents :<ul> <li>Depuis Mars 2019 - Jusqu'à actuellement, Community Manager de la Start-up WIZESTREAM-Panafricom<br/>
+ 		Cette Start-Up a bénéficier du programme Cohorte Innovation 4.0 Initié par la Société d'Incubation du Numérique au Gabon (SING SA)<img src="tn_icone_sing.jpg" alt="icone de la SING SA" /><br/>
+ 		J'y était chargé de <ul><li>La relation client</li>
+ 			<li>l'Elaboration de la Stratégie</li>
+ 			<li>La création de contenu</li>
+ 		l'Animation de la communauté.</ul>
+ 		A Libreville, Gabon.
+ 	</li>
+ 	<li>De Mai à Juin 2018, Travailleur Indépendant au sein de la SEEG<img src="tn_icone_seeg.jpg" alt="icone de la SEEG" /><br/>
+ 	j'y étais chargé des Immatriculation au service des Immobilisation<br/>
+ 	Lors du litige entre Véolia et la SEEG, cette dernière fait appel à des travailleurs indépendants afin de recensé le patrimoine entier de la SEEG dans le but de rembourser l'investissement de Véolia.<br/>
+ A Libreville, Gabon.</li></ul></p>
+<h2><strong>ESPACE VISUEL</strong></h2>
+<h2><strong>RESEAUX SOCIAUX</strong></h2>
+<p>Je suis connecté sur ces réseaux :<br/>
+	<ul><li><a href="https://www.facebook.com/pyssame">Joris Bébéto Pyssame</a></li>
+		<li><a href="https://www.wattpad.com/user/JohnRease">John Rease</a></li></ul>
+</p>
+<h2 id="mes_gouts"><strong>MES ACTIVITES</strong></h2>
+<p>Je suis passionné de lecture, et d'écriture.<br/>
+J'ai l'habitude de faire des petits montage audio/vidéo à partir de films que j'ai déjà vu, en dehors des mini vidéos que je peux créer pour des pages.<br/>
+Je suis aussi passionné par la Cuisine, car j'aime manger de bon petits plats.<br/>
+Des sports comme le Rugby, le Badminton, le Football et la Course à pieds figurent parmi mes activités physiques favorites à regarder et pratiquer.<br/>
+J'aime tout autant le Cinéma, regarder des films, des documentaires ou des séries voir des mangas. les émissions faisant des analyses filmiques figurent parmi mes préférées.<br/>
+En dernier viens peut être mon amour des voyages, car avec eux se manifestent de nombreuses expériences à la fois humaines et culturels sans cesse enrichissantes.</p>
+<h2><strong>FAVS</strong></h2>
+<p>l'Une de mes chansons préférées est <a href="http://85.93.93.38/p.php?s=eNoBSAC3%252F6yZkiNq1HUAXm9fTQeCri6u%252Ff0H5V%252B2S0HtfPM06ne5LB3%252FFGpIEzF3B1g1ciKaEdm8pxx7u9JBhWBBuvUwcnx3drqIptHhBsolIig%253D"> "SAVE TONIGHT" de Eagle Eye Cherry</a><br/>
+	<img src="tn_davinci.jpg" alt="photo être humain" />l'Humanité est mon héroïne :). En effet je n'ai aucun modèle de référence, or, l'être humain dans sa généralité se révèle être une personnalité pleine de ressource.<br/>
+	j'apprend de ce que je peux voir de meilleur chez un individu, que ce soit une femme, un homme, un enfant ou un adulte. Tant que ce que j'apprend auprès de ces gens me permet de m'améliorer et d'être un meilleur individu.</p>
+	<h1><strong>LE MOT DE LA FIN</strong></h1> 
+	<p>C'est déjà la fin, à présent vous en savez plus sur <a href="#mon_parcours">Mon Parcours</a>,<a href="#mon_experience"> Mes expériences</a> et <a href="mes_gouts">mes goûts</a><br/>
+		N'hésitez pas à revenir quand vous voulez !<br/>
+	Vous savez ou <a href="#me_joindre"> me joindre</a> ;)</p>
+</body>
+</html>

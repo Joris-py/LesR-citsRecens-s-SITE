@@ -1,0 +1,30 @@
+body
+{
+background-image: url("ea6a76b1.JPG");
+background-repeat: no-repeat;
+background-attachement: fixed;
+background-position: 100% 0%;
+}
+
+
+h1
+{
+color: black;
+text-align: center;
+}
+
+p
+{
+color: white;
+text-align: center;
+}
+
+ul
+{
+text-align: center;
+}
+
+em
+{
+color: black;
+}
